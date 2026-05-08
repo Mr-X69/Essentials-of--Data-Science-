@@ -25,8 +25,8 @@
 
 | Certificate         | Issuer                   | Completion Date | View                                                       |
 | ------------------- | ------------------------ | --------------- | ---------------------------------------------------------- |
-| Python Essentials 1 | Cisco Networking Academy | 07 Apr 2026 | [View Certificate](./certificates/python_essentials_1.pdf) |
-| Python Essentials 2 | Cisco Networking Academy | 08 Apr 2026 | [View Certificate](./certificates/python_essentials_2.pdf) |
+| Python Essentials 1 | Cisco Networking Academy | 07 Apr 2026 | [View Certificate](./PythonEssentials1.jpeg) |
+| Python Essentials 2 | Cisco Networking Academy | 08 Apr 2026 | [View Certificate](./PythonEssentials2.jpeg) |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Topic               | Description                                 | Link                                                         |
 | ------------------- | ------------------------------------------- | ------------------------------------------------------------ |
-| File Operations & Duplicate File Detection | Explanation of file handling and duplicate detection in Python | [Watch Video](https://youtu.be/wCWlLin0Tu4?si=nCQ9JxWfeZRPLwOG) |
+| File Operations & Duplicate File Detection | Explanation of file handling and duplicate detection in Python | [Watch Video](https://youtu.be/vy8BrmYI1Eg?si=ET9hunBNZn2lJ3-h) |
 
 ---
 
